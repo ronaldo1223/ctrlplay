@@ -1,2 +1,9 @@
 Cliente: Qual a sua comida favorita?
 Chatbot: Macarrão
+Cliente: Dicas de viagem no inverno
+Chatbot: Passeio para serra, natureza ou compras.
+
+Cliente: qual comida voce mais gosta?
+Chatbot: macarao
+Cliente: dicas de viagem
+Chatbot: dicas de viagem no inverno 
